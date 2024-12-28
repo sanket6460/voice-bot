@@ -12,7 +12,7 @@ from langchain.schema import HumanMessage, SystemMessage
 import requests
 
 # Set API Keys
-openai_api_key = "sk_ecf5f58485d2ddf72b3964521080968225f8b98822c722d5"
+openai_api_key = "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"
 
 # Device configuration
 device = "cuda:0" if torch.cuda.is_available() else "cpu"
