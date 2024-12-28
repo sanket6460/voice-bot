@@ -9,3 +9,4 @@ transforme
 langchain.chat_models
 langchain.schema
 requests
+openai
