@@ -1,0 +1,11 @@
+streamlit
+sounddevice
+numpy
+scipy.io.wavfile
+torch
+soundfile
+parler_tts
+transforme
+langchain.chat_models
+langchain.schema
+requests
