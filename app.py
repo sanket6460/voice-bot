@@ -3,6 +3,7 @@ import sounddevice as sd
 import numpy as np
 import scipy.io.wavfile as wav
 import torch
+import openai
 import soundfile as sf
 from parler_tts import ParlerTTSForConditionalGeneration
 from transformers import AutoTokenizer
